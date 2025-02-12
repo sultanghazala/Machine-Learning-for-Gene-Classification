@@ -1,1 +1,1 @@
-# machine-learning-model-for-gene-classification
+# Machine Learning for Gene Classification
